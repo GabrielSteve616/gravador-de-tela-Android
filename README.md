@@ -26,7 +26,3 @@ Implementação baseada na documentação oficial: https://developer.android.com
 ## Estado da validação
 
 APK de debug compilado com sucesso e assinatura verificada com `apksigner`. Ainda precisa de teste da gravação em aparelho Android. Os scripts `build-local.cmd` e `verify-apk.cmd` usam os caminhos das ferramentas desta máquina.
-
-## GitHub
-
-O repositório remoto ainda não foi criado. Após conectar a conta GabrielSteve616, publicar este projeto como `gravador-de-tela`. Não incluir `local.properties`, chaves de assinatura ou arquivos de build.
